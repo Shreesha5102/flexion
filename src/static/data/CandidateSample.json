@@ -1,0 +1,114 @@
+﻿[
+  {
+    "CandidateName": "Aarrona Turner",
+    "BirthDate": "Mar  5",
+    "SSN": "1211",
+    "Email": "AarronaTurner@sample.com",
+    "VendorName": "D and S Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Abayomi Johnny",
+    "BirthDate": "Jan  1",
+    "SSN": "6589",
+    "Email": "AbayomiJohnny@sample.com",
+    "VendorName": "Rightech Vendor",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Abhi sk",
+    "BirthDate": "Dec 13",
+    "SSN": "1234",
+    "Email": "Abhisk@sample.com",
+    "VendorName": "D and S Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "ABHISHEK C G",
+    "BirthDate": "May 21",
+    "SSN": "4568",
+    "Email": "ABHISHEKCG@sample.co.in",
+    "VendorName": "ABC Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "James Abraham",
+    "BirthDate": "Jan  1",
+    "SSN": "9874",
+    "Email": "JamesAbraham@sample.com",
+    "VendorName": "RT Vendor",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Jesus Acosta",
+    "BirthDate": "Jan  1",
+    "SSN": "6541",
+    "Email": "JesusAcosta@sample.com",
+    "VendorName": "ABC Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Hitachi Adam",
+    "BirthDate": "Jun 16",
+    "SSN": "5654",
+    "Email": "HitachiAdam@sample.com",
+    "VendorName": "ABC Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Duquan Adams",
+    "BirthDate": "Jan  1",
+    "SSN": "3214",
+    "Email": "DuquanAdams@sample.com",
+    "VendorName": "RT Vendor",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Lamont Adams",
+    "BirthDate": "Jan  1",
+    "SSN": "1478",
+    "Email": "LamontAdams@sample.com",
+    "VendorName": "RT Vendor",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Idowu Adeniran",
+    "BirthDate": "Jan  1",
+    "SSN": "2569",
+    "Email": "IdowuAdeniran@sample.com",
+    "VendorName": "RT Vendor",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Akash Jain",
+    "BirthDate": "Aug 16",
+    "SSN": "9876",
+    "Email": "AkashJain@sample.com",
+    "VendorName": "D and S Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Albers Todd",
+    "BirthDate": "Jan  1",
+    "SSN": "3698",
+    "Email": "AlbersTodd@sample.com",
+    "VendorName": "RT Vendor",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Alex Jerry",
+    "BirthDate": "Sep 17",
+    "SSN": "9090",
+    "Email": "AlexJerry@sample.com",
+    "VendorName": "ABC Staffing",
+    "IsActive": "Yes"
+  },
+  {
+    "CandidateName": "Alexander Shane",
+    "BirthDate": "Jan  1",
+    "SSN": "2547",
+    "Email": "alexandershane095@sample.com",
+    "VendorName": "RT Vendor",
+    "IsActive": "Yes"
+  }
+]
